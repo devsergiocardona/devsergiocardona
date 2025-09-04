@@ -21,11 +21,6 @@ Computer Science graduate from UCF currently working as a **Software Engineer I*
 - Exploring cloud architecture and **AWS** services
 - Contributing to sports technology platforms
 
-### Currently Vibing To
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=sergiodev2002&count=1&unique=true" alt="Spotify Now Playing" width="350" />
-</div>
-
 ### Let's Connect
 Always open to discussing technology, collaborating on projects, or talking about soccer and fitness. Feel free to reach out or ask me anything [here](https://github.com/devsergiocardona/devsergiocardona/issues)!
 
@@ -74,10 +69,6 @@ Always open to discussing technology, collaborating on projects, or talking abou
 </tr>
 </table>
 
-### Coding Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devsergiocardona&theme=transparent&layout=compact" alt="WakaTime Stats" />
-</div>
 
 ## GitHub Stats
 
@@ -86,9 +77,6 @@ Always open to discussing technology, collaborating on projects, or talking abou
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=devsergiocardona&theme=transparent&count_private=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsergiocardona&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true" alt="Most Used Languages" />
-</div>
 
 
 ---
