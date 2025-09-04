@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hey+I'm+Sergio;Software+Engineer;UCF+Graduate" />
+</h1>
+
 <div align="center">
   <img src="https://github.com/devsergiocardona/devsergiocardona/blob/main/picGH.jpg" alt="Sergio Cardona Banner" width="60%" style="border-radius: 15px;" />
 </div>
@@ -5,10 +9,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devsergiocardona&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hey+I'm+Sergio;Software+Engineer;UCF+Graduate" />
 </h1>
 
 ### About Me
