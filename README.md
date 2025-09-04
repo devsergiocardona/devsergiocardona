@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/devsergiocardona/devsergiocardona/blob/main/picGH.jpg" alt="Sergio Cardona Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/devsergiocardona/devsergiocardona/blob/main/picGH.jpg" alt="Sergio Cardona Banner" width="60%" style="border-radius: 15px;" />
 </div>
 
 <div align="center">
