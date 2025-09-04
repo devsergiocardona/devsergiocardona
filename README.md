@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=twinkling&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=40" alt="Animated Header" />
-</div>
-
-<div align="center">
   <img src="https://github.com/devsergiocardona/devsergiocardona/blob/main/picGH.jpg" alt="Sergio Cardona Banner" width="60%" style="border-radius: 15px;" />
 </div>
 
@@ -140,6 +136,4 @@ As a frontend developer working with Angular and JavaScript, I've been fascinate
 <div align="center">
   <h3>Thanks for visiting my profile!</h3>
   <p>Feel free to reach out if you want to collaborate on projects or just chat about tech.</p>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Banner" />
 </div>
