@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sergio%20Cardona&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descSize=18&descAlignY=55" alt="Header Banner" />
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=devsergiocardona&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
@@ -16,6 +20,11 @@ Computer Science graduate from UCF currently working as a **Software Engineer I*
 - Developing robust backend solutions with **Ruby on Rails**
 - Exploring cloud architecture and **AWS** services
 - Contributing to sports technology platforms
+
+### Currently Vibing To
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=sergiodev2002&count=1&unique=true" alt="Spotify Now Playing" width="350" />
+</div>
 
 ### Let's Connect
 Always open to discussing technology, collaborating on projects, or talking about soccer and fitness. Feel free to reach out or ask me anything [here](https://github.com/devsergiocardona/devsergiocardona/issues)!
@@ -65,6 +74,11 @@ Always open to discussing technology, collaborating on projects, or talking abou
 </tr>
 </table>
 
+### Coding Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devsergiocardona&theme=transparent&layout=compact" alt="WakaTime Stats" />
+</div>
+
 ## GitHub Stats
 
 <div align="center">
@@ -109,4 +123,6 @@ Always open to discussing technology, collaborating on projects, or talking abou
 <div align="center">
   <h3>Thanks for visiting my profile!</h3>
   <p>Feel free to reach out if you want to collaborate on projects or just chat about tech.</p>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Banner" />
 </div>
