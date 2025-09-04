@@ -23,23 +23,41 @@ Computer Science graduate from UCF working as a Software Engineer at SportsEngin
   </a>
 </div>
 
-<br>
+---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,js,ts,html,css,sass" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,python,java,aws" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,postgres,mongodb" />
-</p>
+<div align="center">
 
-**Frontend:** Angular, JavaScript, TypeScript, HTML/CSS, SASS  
-**Backend & Cloud:** Ruby on Rails, Node.js, AWS, Docker  
-**Other stuff:** Python, Java, PostgreSQL, MongoDB
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=angular,js,ts,html,css,sass" />
 
-<br>
+### Backend & Cloud
+<img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,python,java,aws" />
+
+### Tools & Databases
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,postgres,mongodb,postman" />
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center"><strong>Frontend</strong></td>
+<td>Angular, JavaScript, TypeScript, HTML5, CSS3, SASS</td>
+</tr>
+<tr>
+<td align="center"><strong>Backend</strong></td>
+<td>Ruby on Rails, Node.js, Python, Java</td>
+</tr>
+<tr>
+<td align="center"><strong>Cloud & DevOps</strong></td>
+<td>AWS, Docker, Git</td>
+</tr>
+<tr>
+<td align="center"><strong>Databases</strong></td>
+<td>PostgreSQL, MongoDB</td>
+</tr>
+</table>
 
 ## GitHub Stats
 
@@ -52,9 +70,18 @@ Computer Science graduate from UCF working as a Software Engineer at SportsEngin
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsergiocardona&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true" alt="Most Used Languages" />
 </div>
 
-<br>
 
-## Latest Activity
+---
+
+## GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devsergiocardona&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## Recent Activity
 
 <div align="center">
   <picture>
@@ -64,17 +91,16 @@ Computer Science graduate from UCF working as a Software Engineer at SportsEngin
   </picture>
 </div>
 
-<br>
+---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devsergiocardona&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-## 📕 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting my profile!</h3>
+  <p>Feel free to reach out if you want to collaborate on projects or just chat about tech.</p>
+</div>
