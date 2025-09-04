@@ -7,12 +7,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hey+I'm+Sergio;Software+Engineer;UCF+Graduate" />
 </h1>
 
-Computer Science graduate from UCF working as a Software Engineer at SportsEngine. I lean heavily towards frontend development but can work across the full stack when needed.
+### About Me
 
-- Currently working with Angular, JavaScript, and Ruby on Rails at work
-- Always learning something new in AWS and cloud architecture  
-- Big into tech, sports, and the gym
-- Ask me about anything [here](https://github.com/devsergiocardona/devsergiocardona/issues)
+Computer Science graduate from UCF currently working as a **Software Engineer I** at **SportsEngine**. I specialize in frontend development with a strong foundation in full-stack technologies.
+
+### Current Focus
+- Building scalable web applications with **Angular** and **JavaScript**
+- Developing robust backend solutions with **Ruby on Rails**
+- Exploring cloud architecture and **AWS** services
+- Contributing to sports technology platforms
+
+### Let's Connect
+Always open to discussing technology, collaborating on projects, or talking about soccer and fitness. Feel free to reach out or ask me anything [here](https://github.com/devsergiocardona/devsergiocardona/issues)!
 
 <div align="center">
   <a href="https://linkedin.com/in/sergiocardona02" target="_blank">
