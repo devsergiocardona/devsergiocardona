@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=twinkling" alt="Animated Header" />
+</div>
+
+<div align="center">
   <img src="https://github.com/devsergiocardona/devsergiocardona/blob/main/picGH.jpg" alt="Sergio Cardona Banner" width="60%" style="border-radius: 15px;" />
 </div>
 
