@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sergio%20Cardona&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descSize=18&descAlignY=55" alt="Header Banner" />
+  <img src="https://github.com/devsergiocardona/devsergiocardona/blob/main/picGH.jpg" alt="Sergio Cardona Banner" width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
