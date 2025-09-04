@@ -103,8 +103,18 @@ Always open to discussing technology, collaborating on projects, or talking abou
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### [From Basic to Beautiful: How I Built My GitHub Profile That Actually Stands Out](https://github.com/devsergiocardona/devsergiocardona)
+
+As a recent Computer Science graduate from UCF now working as a Software Engineer at SportsEngine, I wanted my GitHub profile to reflect who I am as a developer—not just show a bunch of green squares. Here's how I transformed my basic GitHub profile into something that actually represents my personality and skills.
+
+**Key highlights:**
+- Created a special repository to unlock profile customization
+- Added dynamic typing animation and custom banner
+- Integrated professional tech stack display with visual icons
+- Set up automated GitHub Actions for fresh content
+- Learned that less is more when it comes to professional polish
+
+*The goal isn't to have the flashiest profile on GitHub—it's to have one that authentically represents you as a developer while showcasing your technical skills in a visually appealing way.*
 
 ---
 
