@@ -118,6 +118,21 @@ As a recent Computer Science graduate from UCF now working as a Software Enginee
 
 ---
 
+### [AI-Powered Development: How Machine Learning is Changing Frontend Development](https://github.com/devsergiocardona/devsergiocardona)
+
+As a frontend developer working with Angular and JavaScript, I've been fascinated by how AI is revolutionizing the way we build user interfaces. From intelligent code completion to automated testing, machine learning is becoming an essential tool in modern web development.
+
+**What's changing:**
+- GitHub Copilot and AI pair programming transforming how we write code
+- Automated accessibility testing powered by computer vision
+- Smart design-to-code tools reducing development time
+- AI-driven performance optimization and bundle analysis
+- Machine learning models running directly in the browser with TensorFlow.js
+
+*The future of frontend development isn't about AI replacing developers—it's about developers who understand AI replacing those who don't. The tools are evolving fast, and staying curious about these changes is what separates good developers from great ones.*
+
+---
+
 <div align="center">
   <h3>Thanks for visiting my profile!</h3>
   <p>Feel free to reach out if you want to collaborate on projects or just chat about tech.</p>
